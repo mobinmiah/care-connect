@@ -28,6 +28,11 @@ A modern, responsive web application connecting families with trusted caregivers
 - **Font:** [Inter](https://fonts.google.com/specimen/Inter)
 - **Deployment:** [Vercel](https://vercel.com/)
 
+## 🔧 Development Tools
+
+- **Research & reference:** [ChatGPT](https://chat.openai.com/) — used for research, docs lookup, and exploring approaches.
+- **Edits:** [Cursor](https://cursor.com/) — used for small edits and some quick fixes only.
+
 ## 📁 Project Structure
 
 ```
@@ -225,7 +230,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 👨‍💻 Author
 
-Built with ❤️ using Next.js and Tailwind CSS
+Built with ❤️ using Next.js and Tailwind CSS. Research and exploration with GPT; small edits with Cursor.
 
 ---
 
